@@ -1,4 +1,4 @@
---|| Made by testforcry on github, enjoy it 
+--// Made by testforcry on github, enjoy it 
 while true do
 wait (1)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-150, 200, 1361)
