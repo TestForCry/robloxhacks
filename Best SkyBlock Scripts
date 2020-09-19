@@ -4,5 +4,3 @@ https://arponag.xyz/
 
 
 loadstring(game:HttpGet("https://system-exodus.com/scripts/Skyblock/Skyblock.lua",true))()
-
-loadstring(game:HttpGet('https://pastebin.com/raw/QniR0TfK'))()
