@@ -1,6 +1,6 @@
 --[[
 
-	-Created by Vaeb.
+	-Created by Ip Tested.
 
 ]]
 
@@ -196,4 +196,4 @@ gameMeta.__index, gameMeta.__namecall = function(self, key)
 	end
 end
 
-print("\nRan Vaeb's RemoteSpy\n")
+print("\nIp Tested's Remote Spy\n")
