@@ -1,0 +1,6 @@
+getgenv().ss = Vector3.new(25,25,25) -- Sword size
+getgenv().hl = 35 -- Health limit
+
+-- support server: discord.gg/VDuRyuZ
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kelvinouo/Hub/master/killal"))()

@@ -1,5 +1,0 @@
-getgenv().ss = Vector3.new(25,25,25) -- Sword size
-getgenv().hl = 35 -- Health limit
-getgenv().sz = 17 -- Safe zone high
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TestForCry/Roblox-Scripts-Source-/main/Stay%20alive%20and%20flex%20your%20time%20on%20others"))()
