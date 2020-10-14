@@ -56,39 +56,6 @@ LoginLabel.Text = "Login GUI"
 LoginLabel.TextColor3 = Color3.new(1, 0, 0)
 LoginLabel.TextSize = 14
 
-User.Name = "User"
-User.Parent = LoginGui
-User.BackgroundColor3 = Color3.new(0, 0, 0)
-User.Position = UDim2.new(0.0723404288, 0, 0.388888896, 0)
-User.Size = UDim2.new(0, 200, 0, 37)
-User.Font = Enum.Font.SciFi
-User.PlaceholderColor3 = Color3.new(1, 0, 0)
-User.PlaceholderText = "Username"
-User.Text = ""
-User.TextColor3 = Color3.new(1, 0, 0)
-User.TextSize = 14
-
-Pass.Name = "Pass"
-Pass.Parent = LoginGui
-Pass.BackgroundColor3 = Color3.new(0, 0, 0)
-Pass.Position = UDim2.new(0.0680851117, 0, 0.57407409, 0)
-Pass.Size = UDim2.new(0, 200, 0, 37)
-Pass.Font = Enum.Font.SciFi
-Pass.PlaceholderColor3 = Color3.new(1, 0, 0)
-Pass.PlaceholderText = "Password"
-Pass.Text = ""
-Pass.TextColor3 = Color3.new(1, 0, 0)
-Pass.TextSize = 14
-
-LoginButton.Name = "LoginButton"
-LoginButton.Parent = LoginGui
-LoginButton.BackgroundColor3 = Color3.new(0, 0, 0)
-LoginButton.Position = UDim2.new(0.157446817, 0, 0.75, 0)
-LoginButton.Size = UDim2.new(0, 159, 0, 35)
-LoginButton.Font = Enum.Font.SciFi
-LoginButton.Text = "Login"
-LoginButton.TextColor3 = Color3.new(1, 0, 0)
-LoginButton.TextSize = 14
 
 RedwoodGui.Name = "Redwood Gui"
 RedwoodGui.Parent = Redwood
