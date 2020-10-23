@@ -1,0 +1,463 @@
+-- Farewell Infortality. - Bypass With Anti Ban Has Been Made By Blue
+-- Booga Kuy Hub Version: 2.0
+-- Instances: - Project Kuy Hub
+local StartGui = Instance.new("ScreenGui")
+local StartFrame = Instance.new("Frame")
+local Name = Instance.new("TextLabel")
+local Run = Instance.new("TextButton")
+local HELP = Instance.new("TextButton")
+local BypassActived = Instance.new("TextButton")
+local ImageLabel = Instance.new("ImageLabel")
+local POWER = Instance.new("TextLabel")
+local VERSION = Instance.new("TextButton")
+local MAKEBY = Instance.new("TextLabel")
+local TextLabel = Instance.new("TextLabel")
+local Open = Instance.new("TextButton")
+local Fram = Instance.new("Frame")
+local Namegui = Instance.new("TextLabel")
+local mainframe = Instance.new("Frame")
+local RAINBOW = Instance.new("TextButton")
+local BoogaBitchV2 = Instance.new("TextButton")
+local ADMIN = Instance.new("TextButton")
+local BBG = Instance.new("TextButton")
+local BoogaFucker = Instance.new("TextButton")
+local Exit = Instance.new("TextButton")
+local OnyxHUB = Instance.new("TextButton")
+local Rainbow = Instance.new("Frame")
+local BYPASS2 = Instance.new("TextLabel")
+local Frame = Instance.new("Frame")
+local MOJOCRAFT = Instance.new("TextButton")
+local BillboardGui = Instance.new("BillboardGui")
+local FEKILL = Instance.new("TextButton")
+local aimbot = Instance.new("TextButton")
+local GUIMADEBYPEEMAIGAMERTV = Instance.new("TextLabel")
+local FUCKYOU = Instance.new("TextLabel")
+local ANTIBAN = Instance.new("Frame")
+local Antiban = Instance.new("TextLabel")
+--Properties:
+StartGui.Name = "StartGui"
+StartGui.Parent = game.CoreGui
+
+
+StartFrame.Name = "StartFrame"
+StartFrame.Parent = StartGui
+StartFrame.Active = true
+StartFrame.BackgroundColor3 = Color3.new(0, 0, 0)
+StartFrame.BorderColor3 = Color3.new(0, 1, 0)
+StartFrame.Position = UDim2.new(0.421178341, 0, 0.31181103, 0)
+StartFrame.Selectable = true
+StartFrame.Size = UDim2.new(0, 303, 0, 238)
+StartFrame.Style = Enum.FrameStyle.RobloxRound
+StartFrame.Draggable = true
+
+
+Name.Name = "Name"
+Name.Parent = StartFrame
+Name.BackgroundColor3 = Color3.new(0, 0, 0)
+Name.Position = UDim2.new(0.046193745, 0, 0.0526446179, 0)
+Name.Size = UDim2.new(0, 260, 0, 50)
+Name.Font = Enum.Font.GothamBold
+Name.Text = "BOOGA KUY HUB"
+Name.TextColor3 = Color3.new(0.933333, 0.933333, 0.933333)
+Name.TextScaled = true
+Name.TextSize = 14
+Name.TextWrapped = true
+
+
+Run.Name = "Run"
+Run.Parent = StartFrame
+Run.BackgroundColor3 = Color3.new(0.203922, 0.203922, 0.203922)
+Run.Position = UDim2.new(0.123952731, 0, 0.332819074, 0)
+Run.Size = UDim2.new(0, 213, 0, 50)
+Run.Font = Enum.Font.Highway
+Run.Text = "START THE GUI"
+Run.TextColor3 = Color3.new(1, 0, 0)
+Run.TextScaled = true
+Run.TextSize = 14
+Run.TextWrapped = true
+Run.MouseButton1Down:connect(function()
+Fram.Visible = true
+RAINBOW.Visible = true
+Frame.Visible = true
+mainframe.Visible = true
+StartFrame.Visible = false
+Open.Visible = true
+ANTIBAN.Visible = true
+end)
+
+
+HELP.Name = "HELP"
+HELP.Parent = StartFrame
+HELP.BackgroundColor3 = Color3.new(0.223529, 0.223529, 0.223529)
+HELP.Position = UDim2.new(0.122693561, 0, 0.591752768, 0)
+HELP.Size = UDim2.new(0, 213, 0, 50)
+HELP.Font = Enum.Font.Highway
+HELP.Text = "REMOVE ANTI EXPLOIT"
+HELP.TextColor3 = Color3.new(1, 0, 0)
+HELP.TextScaled = true
+HELP.TextSize = 14
+HELP.TextWrapped = true
+
+
+BypassActived.Name = "Bypass Actived"
+BypassActived.Parent = StartFrame
+BypassActived.BackgroundColor3 = Color3.new(0, 1, 0)
+BypassActived.Position = UDim2.new(0.122673817, 0, 0.858442008, 0)
+BypassActived.Size = UDim2.new(0, 207, 0, 31)
+BypassActived.Font = Enum.Font.SciFi
+BypassActived.Text = "Bypass Actived"
+BypassActived.TextColor3 = Color3.new(0, 0, 0)
+BypassActived.TextScaled = true
+BypassActived.TextSize = 14
+BypassActived.TextWrapped = true
+
+
+ImageLabel.Parent = BypassActived
+ImageLabel.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel.Position = UDim2.new(1, 0, 0, 0)
+ImageLabel.Size = UDim2.new(0, 31, 0, 31)
+ImageLabel.Image = "rbxassetid://185871276"
+
+
+POWER.Name = "POWER"
+POWER.Parent = StartFrame
+POWER.BackgroundColor3 = Color3.new(0.415686, 0.415686, 0.415686)
+POWER.Position = UDim2.new(0.0414444804, 0, -0.0352729373, 0)
+POWER.Size = UDim2.new(0, 260, 0, 22)
+POWER.Font = Enum.Font.GothamBold
+POWER.Text = "POWERED BY GUESTNOOB TEAM"
+POWER.TextColor3 = Color3.new(0, 0, 0)
+POWER.TextScaled = true
+POWER.TextSize = 14
+POWER.TextWrapped = true
+
+
+VERSION.Name = "VERSION"
+VERSION.Parent = StartFrame
+VERSION.BackgroundColor3 = Color3.new(0.196078, 0.196078, 0.196078)
+VERSION.Position = UDim2.new(0.946220577, 0, -0.0385662392, 0)
+VERSION.Size = UDim2.new(0, 26, 0, 31)
+VERSION.Font = Enum.Font.GothamBlack
+VERSION.Text = "V2"
+VERSION.TextColor3 = Color3.new(0, 0, 0)
+VERSION.TextSize = 14
+
+
+MAKEBY.Name = "MAKE BY"
+MAKEBY.Parent = StartFrame
+MAKEBY.BackgroundColor3 = Color3.new(0.372549, 0.372549, 0.372549)
+MAKEBY.Position = UDim2.new(0.0386473425, 0, 14.7222223, 0)
+MAKEBY.Size = UDim2.new(0, 200, 0, 13)
+MAKEBY.Font = Enum.Font.GothamBlack
+MAKEBY.Text = "ANTI BAN BY.BLUE"
+MAKEBY.TextColor3 = Color3.new(0, 1, 1)
+MAKEBY.TextSize = 14
+
+
+TextLabel.Parent = StartFrame
+TextLabel.BackgroundColor3 = Color3.new(0.207843, 0.207843, 0.207843)
+TextLabel.Position = UDim2.new(0.126152813, 0, 0.273780257, 0)
+TextLabel.Size = UDim2.new(0, 212, 0, 19)
+TextLabel.Font = Enum.Font.GothamBlack
+TextLabel.Text = "anti ban was made by.blue"
+TextLabel.TextColor3 = Color3.new(0, 1, 1)
+TextLabel.TextSize = 14
+
+
+Open.Name = "Open"
+Open.Parent = StartGui
+Open.BackgroundColor3 = Color3.new(0.666667, 0.333333, 1)
+Open.BorderColor3 = Color3.new(0.666667, 0, 1)
+Open.Position = UDim2.new(0.0111464849, 0, 0.396850437, 0)
+Open.Selectable = false
+Open.Size = UDim2.new(0, 127, 0, 48)
+Open.Visible = false
+Open.Font = Enum.Font.Cartoon
+Open.Text = "OPEN THE GUI"
+Open.TextColor3 = Color3.new(0, 0, 0)
+Open.TextScaled = true
+Open.TextSize = 14
+Open.TextWrapped = true
+Open.MouseButton1Click:connect(function()
+Fram.Visible = true
+mainframe.Visible = true
+Frame.Visible = true
+RAINBOW.Visible = true
+Open.Visible = false
+end)
+
+
+Fram.Name = "Fram"
+Fram.Parent = StartGui
+Fram.Active = true
+Fram.BackgroundColor3 = Color3.new(0.184314, 0.184314, 0.184314)
+Fram.Position = UDim2.new(0.382165611, 0, 0.250393689, 0)
+Fram.Selectable = true
+Fram.Size = UDim2.new(0, 414, 0, 452)
+Fram.Visible = false
+Fram.Style = Enum.FrameStyle.RobloxRound
+Fram.Draggable = true
+
+
+Namegui.Name = "Namegui"
+Namegui.Parent = Fram
+Namegui.BackgroundColor3 = Color3.new(0.188235, 0.188235, 0.188235)
+Namegui.Position = UDim2.new(0.00464427564, 0, 0.0519442223, 0)
+Namegui.Size = UDim2.new(0, 392, 0, 50)
+Namegui.Font = Enum.Font.Cartoon
+Namegui.Text = "BOOGA KUY HUB V2"
+Namegui.TextColor3 = Color3.new(0.811765, 0.811765, 0.811765)
+Namegui.TextScaled = true
+Namegui.TextSize = 14
+Namegui.TextStrokeColor3 = Color3.new(1, 1, 1)
+Namegui.TextWrapped = true
+
+
+mainframe.Name = "mainframe"
+mainframe.Parent = Fram
+mainframe.BackgroundColor3 = Color3.new(0.294118, 0.294118, 0.294118)
+mainframe.Position = UDim2.new(0.00144155091, 0, 0.18895106, 0)
+mainframe.Size = UDim2.new(0, 392, 0, 299)
+
+
+RAINBOW.Name = "RAINBOW"
+RAINBOW.Parent = Fram
+RAINBOW.BackgroundColor3 = Color3.new(0, 0.666667, 1)
+RAINBOW.Position = UDim2.new(0.027227724, 0, 0.409299195, 0)
+RAINBOW.Size = UDim2.new(0, 182, 0, 50)
+RAINBOW.Font = Enum.Font.GothamBlack
+RAINBOW.Text = "[PATCHED] FRAM"
+RAINBOW.TextColor3 = Color3.new(0, 0, 0)
+RAINBOW.TextScaled = true
+RAINBOW.TextSize = 14
+RAINBOW.TextWrapped = true
+
+
+BoogaBitchV2.Name = "BoogaBitchV2"
+BoogaBitchV2.Parent = Fram
+BoogaBitchV2.BackgroundColor3 = Color3.new(1, 0, 0)
+BoogaBitchV2.BorderColor3 = Color3.new(1, 0.333333, 0)
+BoogaBitchV2.Position = UDim2.new(0.511923075, 0, 0.243334323, 0)
+BoogaBitchV2.Size = UDim2.new(0, 178, 0, 51)
+BoogaBitchV2.Font = Enum.Font.GothamBlack
+BoogaBitchV2.Text = "BOOGABITCHEDV2"
+BoogaBitchV2.TextColor3 = Color3.new(0, 0, 0)
+BoogaBitchV2.TextScaled = true
+BoogaBitchV2.TextSize = 14
+BoogaBitchV2.TextWrapped = true
+
+
+ADMIN.Name = "ADMIN"
+ADMIN.Parent = Fram
+ADMIN.BackgroundColor3 = Color3.new(1, 0, 0)
+ADMIN.Position = UDim2.new(0.00474983267, 0, 0.925426841, 0)
+ADMIN.Size = UDim2.new(0, 187, 0, 28)
+ADMIN.Text = "become Admin"
+ADMIN.TextColor3 = Color3.new(0, 0, 0)
+ADMIN.TextScaled = true
+ADMIN.TextSize = 14
+ADMIN.TextWrapped = true
+
+
+BBG.Name = "BBG"
+BBG.Parent = Fram
+BBG.BackgroundColor3 = Color3.new(1, 0, 0)
+BBG.Position = UDim2.new(0.0257123131, 0, 0.732394934, 0)
+BBG.Size = UDim2.new(0, 182, 0, 50)
+BBG.Font = Enum.Font.GothamBlack
+BBG.Text = "BBG"
+BBG.TextColor3 = Color3.new(0, 0, 0)
+BBG.TextScaled = true
+BBG.TextSize = 14
+BBG.TextWrapped = true
+
+
+BoogaFucker.Name = "BoogaFucker"
+BoogaFucker.Parent = Fram
+BoogaFucker.BackgroundColor3 = Color3.new(1, 0, 0.0156863)
+BoogaFucker.Position = UDim2.new(0.514586031, 0, 0.410867006, 0)
+BoogaFucker.Size = UDim2.new(0, 177, 0, 50)
+BoogaFucker.Modal = true
+BoogaFucker.Font = Enum.Font.GothamBlack
+BoogaFucker.Text = "BoogaFucker"
+BoogaFucker.TextColor3 = Color3.new(0, 0, 0)
+BoogaFucker.TextScaled = true
+BoogaFucker.TextSize = 14
+BoogaFucker.TextWrapped = true
+
+
+Exit.Name = "Exit"
+Exit.Parent = Fram
+Exit.BackgroundColor3 = Color3.new(1, 0, 0)
+Exit.Position = UDim2.new(0.924366713, 0, -0.0199115053, 0)
+Exit.Size = UDim2.new(0, 37, 0, 20)
+Exit.Font = Enum.Font.SourceSans
+Exit.Text = "X"
+Exit.TextColor3 = Color3.new(0, 0, 0)
+Exit.TextScaled = true
+Exit.TextSize = 14
+Exit.TextWrapped = true
+Exit.MouseButton1Click:connect(function()
+Fram.Visible = false
+mainframe.Visible = false
+Frame.Visible = false
+RAINBOW.Visible = false
+Open.Visible = true
+end)
+
+
+OnyxHUB.Name = "OnyxHUB"
+OnyxHUB.Parent = Fram
+OnyxHUB.BackgroundColor3 = Color3.new(1, 0, 0)
+OnyxHUB.Position = UDim2.new(0.513195515, 0, 0.732822478, 0)
+OnyxHUB.Size = UDim2.new(0, 177, 0, 50)
+OnyxHUB.Font = Enum.Font.GothamBlack
+OnyxHUB.Text = "OnyxHUB"
+OnyxHUB.TextColor3 = Color3.new(0, 0, 0)
+OnyxHUB.TextScaled = true
+OnyxHUB.TextSize = 14
+OnyxHUB.TextWrapped = true
+
+
+Rainbow.Name = "Rainbow"
+Rainbow.Parent = Fram
+Rainbow.BackgroundColor3 = Color3.new(0.309804, 0.309804, 0.309804)
+Rainbow.Position = UDim2.new(0.00271650776, 0, 0.875051558, 0)
+Rainbow.Size = UDim2.new(0, 389, 0, 21)
+
+
+BYPASS2.Name = "BYPASS2"
+BYPASS2.Parent = Fram
+BYPASS2.BackgroundColor3 = Color3.new(0, 1, 1)
+BYPASS2.Position = UDim2.new(0.477137923, 0, 0.924601436, 0)
+BYPASS2.Size = UDim2.new(0, 200, 0, 27)
+BYPASS2.Text = "FE-ANTIBAN - EN"
+BYPASS2.TextColor3 = Color3.new(0, 0, 0)
+BYPASS2.TextSize = 14
+
+
+Frame.Parent = Fram
+Frame.BackgroundColor3 = Color3.new(0.105882, 0.105882, 0.105882)
+Frame.Position = UDim2.new(0.00204570964, 0, 0.188230529, 0)
+Frame.Size = UDim2.new(0, 392, 0, 14)
+
+
+MOJOCRAFT.Name = "MOJO CRAFT"
+MOJOCRAFT.Parent = Fram
+MOJOCRAFT.BackgroundColor3 = Color3.new(1, 1, 0)
+MOJOCRAFT.BorderColor3 = Color3.new(1, 1, 0.498039)
+MOJOCRAFT.Position = UDim2.new(0.0350364782, 0, 0.243633732, 0)
+MOJOCRAFT.Size = UDim2.new(0, 178, 0, 50)
+MOJOCRAFT.Font = Enum.Font.GothamBlack
+MOJOCRAFT.Text = "MOJO CRAFT"
+MOJOCRAFT.TextColor3 = Color3.new(0.203922, 0.203922, 0)
+MOJOCRAFT.TextScaled = true
+MOJOCRAFT.TextSize = 14
+MOJOCRAFT.TextWrapped = true
+
+
+FEKILL.Name = "FEKILL"
+FEKILL.Parent = Fram
+FEKILL.BackgroundColor3 = Color3.new(1, 0, 0)
+FEKILL.Position = UDim2.new(0.0246204603, 0, 0.570873439, 0)
+FEKILL.Size = UDim2.new(0, 182, 0, 50)
+FEKILL.Font = Enum.Font.GothamBlack
+FEKILL.Text = "[ OP ] FE KILL V2"
+FEKILL.TextColor3 = Color3.new(0, 0, 0)
+FEKILL.TextScaled = true
+FEKILL.TextSize = 14
+FEKILL.TextWrapped = true
+
+
+aimbot.Name = "aimbot"
+aimbot.Parent = Fram
+aimbot.BackgroundColor3 = Color3.new(0, 1, 0)
+aimbot.Position = UDim2.new(0.512886941, 0, 0.571486533, 0)
+aimbot.Size = UDim2.new(0, 177, 0, 50)
+aimbot.Font = Enum.Font.GothamBlack
+aimbot.Text = "AIMBOT HACK"
+aimbot.TextColor3 = Color3.new(0, 0, 0)
+aimbot.TextScaled = true
+aimbot.TextSize = 14
+aimbot.TextWrapped = true
+
+
+GUIMADEBYPEEMAIGAMERTV.Name = "GUI MADE BY PEEMAI GAMERTV"
+GUIMADEBYPEEMAIGAMERTV.Parent = Fram
+GUIMADEBYPEEMAIGAMERTV.BackgroundColor3 = Color3.new(1, 0, 0.0156863)
+GUIMADEBYPEEMAIGAMERTV.Position = UDim2.new(0.00736166537, 0, 0.866602778, 0)
+GUIMADEBYPEEMAIGAMERTV.Size = UDim2.new(0, 387, 0, 25)
+GUIMADEBYPEEMAIGAMERTV.Font = Enum.Font.GothamBlack
+GUIMADEBYPEEMAIGAMERTV.Text = "GUI MADE BY PEEMAI GAMERTV"
+GUIMADEBYPEEMAIGAMERTV.TextColor3 = Color3.new(0, 0, 0)
+GUIMADEBYPEEMAIGAMERTV.TextScaled = true
+GUIMADEBYPEEMAIGAMERTV.TextSize = 14
+GUIMADEBYPEEMAIGAMERTV.TextWrapped = true
+
+
+FUCKYOU.Name = "FUCK YOU"
+FUCKYOU.Parent = Fram
+FUCKYOU.BackgroundColor3 = Color3.new(1, 1, 1)
+FUCKYOU.Position = UDim2.new(0.000137096271, 0, -0.00371993612, 0)
+FUCKYOU.Size = UDim2.new(0, 200, 0, 24)
+FUCKYOU.Font = Enum.Font.GothamBlack
+FUCKYOU.Text = "COPYRIGHT 2019 - BOOGA BOOGA GUI"
+FUCKYOU.TextColor3 = Color3.new(0, 0, 0)
+FUCKYOU.TextScaled = true
+FUCKYOU.TextSize = 14
+FUCKYOU.TextWrapped = true
+
+
+ANTIBAN.Name = "ANTIBAN"
+ANTIBAN.Parent = StartGui
+ANTIBAN.BackgroundColor3 = Color3.new(1, 1, 1)
+ANTIBAN.Position = UDim2.new(0.455414027, 0, 0.00157481513, 0)
+ANTIBAN.Size = UDim2.new(0, 207, 0, 18)
+ANTIBAN.Visible = false
+
+
+Antiban.Name = "Antiban?"
+Antiban.Parent = ANTIBAN
+Antiban.BackgroundColor3 = Color3.new(0.262745, 0.262745, 0.262745)
+Antiban.Position = UDim2.new(-0.00326965633, 0, -0.0103235245, 0)
+Antiban.Size = UDim2.new(0, 208, 0, 19)
+Antiban.Font = Enum.Font.GothamBlack
+Antiban.Text = "ANTI BAN V.1 - ON"
+Antiban.TextColor3 = Color3.new(1, 0, 0.0156863)
+Antiban.TextScaled = true
+Antiban.TextSize = 14
+Antiban.TextWrapped = true
+
+
+-- Scripts:
+MOJOCRAFT.MouseButton1Down:connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/NPc9MFnL", true))()
+end)
+
+OnyxHUB.MouseButton1Down:connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/T4CMx3vi", true))()
+end)
+
+BoogaBitchV2.MouseButton1Down:connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/yigKxDrK", true))()
+end)
+
+craftgui.MouseButton1Down:connect(function()
+loadstring(game:HttpGet("https//https://pastebin.com/raw/spgZDKr2", true))()
+end)
+
+BoogaFucker.MouseButton1Down:connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/ML0bP1A7", true))()
+end)
+
+FEKILL.MouseButton1Down:connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/43u4BPx8", true))()
+end)
+
+aimbot.MouseButton1Down:connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/KJzGu42u", true))()
+end)
+
+ADMIN.MouseButton1Down:connect(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/nLGnSxt1", true))()
+end)
